@@ -1,0 +1,19 @@
+{
+  "imports": {
+    "@vue-mf/root-config": "https://vue.microfrontends.app/root-config/9f3ad08824d101817469423804308b5fbc18fc75/vue-mf-root-config.js",
+    "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.5.1/lib/system/single-spa.min.js",
+    "@vue-mf/styleguide": "https://vue.microfrontends.app/styleguide/e8822983ac1b1eed59ec968348f8326ac47a4412/vue-mf-styleguide.js",
+    "@vue-mf/navbar": "https://vue.microfrontends.app/navbar/d5a7cf03857a6dffc75c7e36e79878c174318c99/js/app.js",
+    "vue": "https://cdn.jsdelivr.net/npm/vue@2.6.11/dist/vue.min.js",
+    "@vue-mf/dogs-dashboard": "http://localhost:9000/static/dogs-dashboard/js/app.js",
+    "@vue-mf/rate-dogs": "https://vue.microfrontends.app/rate-dogs/ae0410505571afbc535066303405222dd4e27882/js/app.js",
+    "vue-router": "https://cdn.jsdelivr.net/npm/vue-router@3.1.6/dist/vue-router.min.js",
+    "@vue-mf/root-config/": "https://vue.microfrontends.app/root-config/9f3ad08824d101817469423804308b5fbc18fc75/",
+    "@vue-mf/navbar/": "https://vue.microfrontends.app/navbar/d5a7cf03857a6dffc75c7e36e79878c174318c99/js/",
+    "@vue-mf/dogs-dashboard/": "http://localhost:9000/static/dogs-dashboard/js/",
+    "@vue-mf/styleguide/": "https://vue.microfrontends.app/styleguide/e8822983ac1b1eed59ec968348f8326ac47a4412/",
+    "@vue-mf/rate-dogs/": "https://vue.microfrontends.app/rate-dogs/ae0410505571afbc535066303405222dd4e27882/js/",
+    "@vue-mf/new-vue-ts": "http://localhost:9000/static/new-vue-ts/js/app.js",
+    "@vue-mf/new-vue-ts/": "http://localhost:9000/static/new-vue-ts/js/"
+  }
+}
